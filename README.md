@@ -8,4 +8,4 @@
 - Barcode
 
 ### Sitio de Prueba
-[Ver Página](https://web.optica.x10.mx/).
+[Ver Página](https://app.optica.x10.mx/).
